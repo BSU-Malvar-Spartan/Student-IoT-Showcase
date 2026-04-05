@@ -47,4 +47,4 @@ For the full license text, see the [LICENSE](LICENSE) file or visit <https://www
 
 ---
 
-*Made with ❤️ by the BSU Malvar Spartan community.*
+
